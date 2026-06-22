@@ -1,0 +1,1 @@
+UGC ad content screenshots.
