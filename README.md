@@ -78,3 +78,19 @@ This repository contains:
 ## Outcome
 
 Created an AI-powered UGC content system that can be reused for different brands and local businesses.
+## Screenshots
+
+### UGC Hooks
+
+![Hooks](screenshots/hooks.png)
+
+
+### UGC Ad Script
+
+![Ad Script](screenshots/ugc-script.png)
+
+
+### CTA Examples
+
+![CTA](screenshots/cta.png)
+
